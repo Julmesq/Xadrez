@@ -1,5 +1,7 @@
 Desafio de Xadrez
+
 Níveis do Desafio
+
 Nível Novato
 Movimentação das Peças:
 Bispo: 5 casas na diagonal superior direita
